@@ -1,7 +1,7 @@
 # HDB-test
 **Q1**  
 
-Download and extract ResaleFlatPricesTQX project into a folder.  
+Download and extract ResaleFlatPricesTQX project.  
 
 Download dataset from https://data.gov.sg/collections/189/view and place in the root directory of ResaleFlatPricesTQX  
 
